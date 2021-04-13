@@ -1,0 +1,9 @@
+{
+  "name": "rover5-host",
+  "version": "1.0.0",
+  "description": "Host software for rover5 robot",
+  "main": "index.js",
+  "repository": "git@github.com:DiegoPinto357/rover5-host.git",
+  "author": "Diego Pinto",
+  "license": "MIT"
+}
